@@ -3,7 +3,7 @@ main() {
     return a + b;
   };
 
-  var subtracao = (int a, int b) => a - b;
+  var subtracao = (int a, int b) => a - b; //Arow function
   var multiplicacao = (int a, int b) => a * b;
   var divisao = (int a, int b) => a / b;
 
